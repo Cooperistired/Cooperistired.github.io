@@ -23,5 +23,9 @@ my website
   </head>
   <body>
     <div id="clock>10:10:01</div>
+    <script type="text/javascript"
+                                
+     function displayclock () {
+     
              </body>
 </html>
