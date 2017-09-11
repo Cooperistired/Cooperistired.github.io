@@ -2,7 +2,7 @@
 my website
 <html>
   <title>website</title>
-  </head>
+  <head>this is my header</head>
   <body>
   <br>hi guys this is cooper</p>
   <br>
