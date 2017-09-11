@@ -2,7 +2,8 @@
 my website
 <html>
   <title>website</title>
-  <head>this is my header</head>
+  <h1>My Dashboard Title</h1>
+  </head>
   <body>
   <br>hi guys this is cooper</p>
   <br>
