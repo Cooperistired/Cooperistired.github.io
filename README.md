@@ -12,16 +12,15 @@ my website
 
 <html>
   <head>
-    <title>clock</title>
-    <script type="text/javascript" src="script.js"></script>
-    <link type="text/css" rel="stylesheet" href="style.css">
+    <title>displayingclock</title>
+    <style type="text/css">
+      #clock {
+      width:900px;
+      margin:150px;
+      text-align: center;
+      font-size: 150px;
+      
   </head>
   <body>
-    <div class="clock">
-      <span id="hr">00</span>
-      <span> : </span>
-      <span id="min">00</span>
-      <span> : </span>
-      <span id="sec">00</span>
-      <span> : </span>
+    <div id="clock>10:10:01</div>
 </html>
